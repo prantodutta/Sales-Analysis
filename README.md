@@ -71,3 +71,10 @@ Based on the insights generated from this dashboard, the company was able to mak
 
 As a result, the company experienced an increase in overall sales performance and improved operational efficiency through more effective decision-making.
 
+## 📸 Screenshots / Demos
+Show what the dashboard looks like. 
+### 🔹 Sales Performance Dashboard
+Example: ![Dasgboard Preview](https://github.com/prantodutta/Sales-Analysis/blob/main/Sales%20Analysis%20ss.png)
+### 🔹 Financial Performance Dashboard
+Example: ![Dasgboard Preview](https://github.com/prantodutta/Sales-Analysis/blob/main/Financial%20Dashboard%20ss.png)
+
